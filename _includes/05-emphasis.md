@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_this should be italicized_
+**This should be bold**
+**_This should be both_** :tada:
